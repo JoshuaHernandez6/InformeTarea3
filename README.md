@@ -27,6 +27,9 @@ Identificar conceptos esenciales de la materia de fundamentos de circuitos eléc
 
 # 3. Explicación y resolución de ejercicios
 
+2.5.1. Implemente el circuito que se presenta en la figura 2.1.
+
+![image](https://user-images.githubusercontent.com/105715717/172435035-4ac246dc-9373-4624-9573-e54fb4c56f33.png)
 
 
 # 4. Video
